@@ -4,7 +4,7 @@
 ## Installations:
 Install dependencies using requirements.txt
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Credits:
 * **Milo Spencer-Harber** - [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
