@@ -1,5 +1,5 @@
 # Simple Neural Network
-Template for a simple neural network in Python with one input layer (3 inputs) and one output neuron. This neural network has no hidden layers so it is known as a perceptron model. 
+Template for a simple neural network in Python with one input layer (3 inputs) and one output neuron. This neural network has no hidden layers so it is known as a perceptron model. The neural network attempts to predict an output when given 3 binary inputs. If the first input = 1 than the output should be 1 otherwise the output should be 0.
 
 - Simplified Version.py - Isn't a usable neural network, just there as an example
 - Neural Network.py - Usable version allowing the user to give different inputs
