@@ -1,6 +1,7 @@
 # Simple Neural Network
-## Description: 
+Template for a simple neural network in Python with one input layer (3 inputs) and one output neuron. This neural network has no hidden layers so it is known as a perceptron model. 
 
+- Simplified 
 ## Installations:
 Install dependencies using requirements.txt
 
